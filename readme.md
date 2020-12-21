@@ -12,5 +12,5 @@ sudo apt install -y composer php-xml
 
 # LAMP stack prerequisites
 ```shell
-sudo apt install -y kcachegrind gimp
+sudo apt install -y kcachegrind gimp php-xdebug
 ```
