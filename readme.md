@@ -8,7 +8,9 @@ sudo apt install -y network-manager-openvpn-gnome \
 sudo tasksel install lamp-server
 sudo tasksel install openssh-server
 sudo apt install -y composer php-xml
+```
 
 # LAMP stack prerequisites
+```shell
 sudo apt install -y kcachegrind gimp
 ```
